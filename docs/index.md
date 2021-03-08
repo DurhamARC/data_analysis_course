@@ -1,7 +1,7 @@
 # Introduction to Data Analysis with Python
 *by Jonathan Frawley*
 
-This page: <http://bit.ly/3kYO0Od>
+This page: <http://bit.ly/data_analysis_course>
 
 If you notice an issue after the online course, please raise an issue through [Github](https://github.com/jonathanfrawley/data_analysis_course).
 
