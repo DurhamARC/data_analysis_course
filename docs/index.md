@@ -7,7 +7,7 @@ If you notice an issue after the online course, please raise an issue through [G
 
 ## How to use
 All of the exercises and slides are Jupyter notebooks run through Google's Colab service.
-You can run all of these by clicking on a cell and then pressing "Shift Enter".
+You can run all of these by clicking on a cell and then pressing "Shift + Enter" or clicking the "Play" button.
 You can edit the code by double-clicking on a cell.
 You can reevaluate the code after editing to see the updated output.
 Output such as text and images automatically displayed, which is especially useful when outputting graphs or visualisations.
