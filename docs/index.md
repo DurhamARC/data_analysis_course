@@ -3,7 +3,7 @@
 
 This page: <http://bit.ly/data_analysis_course_web>
 
-If you notice an issue after the online course, please raise an issue through [Github](https://github.com/jonathanfrawley/data_analysis_course).
+If you notice an issue after the online course, please raise an issue through [GitHub](https://github.com/jonathanfrawley/data_analysis_course).
 
 ## How to use
 All of the exercises and slides are Jupyter notebooks run through Google's Colab service.
