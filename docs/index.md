@@ -16,7 +16,7 @@ Please use the following to try out Colab and make sure everything works as inte
 
 ## Part 1: Introduction to NumPy, Matplotlib and Probability 
 ### Slides
-<https://bit.ly/2O52FvB>
+<https://bit.ly/3bsBnbl>
  
 ### Exercises
 <https://bit.ly/3bx31Ed>
@@ -26,7 +26,7 @@ Please use the following to try out Colab and make sure everything works as inte
 
 ## Part 2: Analysing Datasets using Pandas
 ### Slides
-<https://bit.ly/3ru1QuE>
+<https://bit.ly/3ru5gxu>
  
 ### Exercises
 <https://bit.ly/38luwP4>
@@ -35,4 +35,4 @@ Please use the following to try out Colab and make sure everything works as inte
 <https://bit.ly/2Oz88dM>
 
 ## Part 3: Final Words
-<https://bit.ly/2MWohcK>
+<https://bit.ly/3boI7Xz>
